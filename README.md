@@ -24,7 +24,7 @@ Hatchet Trace is an automated open-source-intelligence platform that **collects,
 
 ## Why it's different
 
-Built by an Army Ranger combat veteran with law-enforcement, intelligence, and cybersecurity experience — it reflects real investigative tradecraft, not a generic scraper. The value is in the **correlation and scoring**, which improve as the system runs.
+Built by practitioners with real law-enforcement, intelligence, and cybersecurity experience — it reflects genuine investigative tradecraft, not a generic scraper. The value is in the **correlation and scoring**, which improve as the system runs.
 
 ## The opportunity
 
@@ -34,7 +34,7 @@ Open-source intelligence is a fast-growing market spanning law enforcement, corp
 
 ## Contact
 
-Serious inquiries: **ccr12capital@gmail.com**
+Serious inquiries: **hatchet412@proton.me**
 
 ---
 

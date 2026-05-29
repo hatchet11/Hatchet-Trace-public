@@ -1,0 +1,5 @@
+# Public information repository — no source, no secrets.
+*.env
+*.key
+*.pem
+node_modules/

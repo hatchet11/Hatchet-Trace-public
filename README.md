@@ -1,5 +1,9 @@
 # Hatchet Trace
 
+![Status: Active Development](https://img.shields.io/badge/status-active%20development-yellow?style=flat-square)
+![License: Proprietary](https://img.shields.io/badge/license-proprietary-red?style=flat-square)
+![Domain: OSINT / Threat Intelligence](https://img.shields.io/badge/domain-OSINT%20%2F%20threat%20intelligence-blue?style=flat-square)
+
 ### OSINT-driven intelligence and alerting for theft and threat investigations.
 
 **Status:** Active development · **Seeking:** investment, partnership, or acquisition
@@ -39,3 +43,18 @@ Serious inquiries: **hatchet412@proton.me**
 ---
 
 *Public information repository — no source code, no methods, no credentials. Proprietary software, all rights reserved.*
+
+---
+
+## Part of the Omega Point Solutions suite
+
+Hatchet Trace is developed under the [Omega Point Solutions](https://omegapointsolutions.com) umbrella — an applied-AI and public-safety technology company built by law enforcement and intelligence veterans.
+
+**Suite products:**
+[FraudTrax](https://github.com/hatchet11/FraudTrax-public) &nbsp;·&nbsp;
+[SVT — Stolen Vehicle Tracking](https://github.com/hatchet11/SVT-public) &nbsp;·&nbsp;
+[Hatchet Trace](https://github.com/hatchet11/Hatchet-Trace-public) &nbsp;·&nbsp;
+[County EMA Operations Map](https://github.com/hatchet11/County-EMA-Operations-Map-public) &nbsp;·&nbsp;
+[EagleEye](https://github.com/hatchet11/EagleEye-public)
+
+https://omegapointsolutions.com · hatchet412@proton.me
